@@ -1,4 +1,4 @@
-# nginxjson
+# nginxjson [![Docker](https://github.com/mharj/nginxjson/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/mharj/nginxjson/actions/workflows/docker-publish.yml)
 
 Docker Nginx/alpine image with JSON env transformation script.
 
